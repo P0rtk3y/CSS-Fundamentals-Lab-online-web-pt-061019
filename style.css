@@ -8,6 +8,10 @@ body {
   margin: 0;
 }
 
+header {
+  text-align: center;
+}
+
 img {
   align-self: center;
 }
