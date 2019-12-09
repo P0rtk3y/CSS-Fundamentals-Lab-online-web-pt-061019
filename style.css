@@ -8,3 +8,10 @@ body {
   margin: 0;
 }
 
+#details {
+  display: block;
+}
+
+#details div{
+  float: left;
+}
