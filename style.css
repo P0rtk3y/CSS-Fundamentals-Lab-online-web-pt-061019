@@ -14,5 +14,6 @@ body {
 
 #details div{
   float: left;
+  background-color: yellow;
   width: 25%;
 }
